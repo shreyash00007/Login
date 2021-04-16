@@ -9,3 +9,8 @@
 >[Img1]()
 
 #### Logos
+>[Google]
+
+>[Facebook]
+
+>[Instagram]
