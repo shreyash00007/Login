@@ -8,7 +8,7 @@
 
 <!---
 #### Images
->[Img](https://github.com/shreyash00007/Login/blob/main/img1.jpg)
+>[Imges](https://github.com/shreyash00007/Login/blob/main/img1.jpg)
 
 #### Logos
 >[Google](https://github.com/shreyash00007/Login/blob/main/Google.png)
