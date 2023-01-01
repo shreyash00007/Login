@@ -13,4 +13,4 @@
 >[Google icon](https://github.com/shreyash00007/Login/blob/main/Google.png)
 >[Facebook](https://github.com/shreyash00007/Login/blob/main/facebbok.png)
 >[Instagram](https://github.com/shreyash00007/Login/blob/main/facebbok.png)
-------->
+---------->
