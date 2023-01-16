@@ -1,5 +1,4 @@
-# Project Login Page
-## Login page
+# Project Login Page -
 >[vist here](https://shreyash00007.github.io/Login/)
 ### Code
 >[HTML](https://github.com/shreyash00007/Login/blob/main/index.html)
